@@ -1,6 +1,4 @@
-package Leetcode_January_Challenge_Solutions;
 
-import java.util.HashMap;
 
 class Solution {
     public boolean wordPattern(String pattern, String s) {
