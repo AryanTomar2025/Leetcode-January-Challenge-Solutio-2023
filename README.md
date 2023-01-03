@@ -1,1 +1,1 @@
-# Leetcode-January-Challenge-Solutions(2023)
+# Leetcode-January-Challenge-Solutions(2023) in JAVA
